@@ -1,0 +1,11 @@
+
+[
+java:S3252B">Use static access with "javafx.stage.Window" for "getWindows".(”ı™á8¼‚ÖÎú1
+[
+java:S3252R">Use static access with "javafx.stage.Window" for "getWindows".(”ı™á8Æ‚ÖÎú1
+k
+java:S6201i"OReplace this instanceof check and cast with 'instanceof Polygon clickedPolygon'(‰‰øU8Ô‚ÖÎú1
+Z
+java:S1128"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8Ø‚ÖÎú1
+Y
+java:S1128"7Remove this unused import 'javafx.scene.control.Label'.(ö²­ÿÿÿÿÿ8Ø‚ÖÎú1
